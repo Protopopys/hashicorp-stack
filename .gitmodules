@@ -1,0 +1,6 @@
+[submodule "roles/nomad"]
+	path = roles/nomad
+	url = https://github.com/Protopopys/nomad.git
+[submodule "roles/consul"]
+	path = roles/consul
+	url = https://github.com/Protopopys/consul.git
